@@ -5,8 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-MFPLINK = "https://huggingface.co/spaces/waytest/nuovo-spazio-mfp"     # non mettere lo / finale al link
-MFPPSW = "relitto"
+MFPLINK = "https://waytest-dd-vediamo.hf.space"     # non mettere lo / finale al link
+MFPPSW = ""
 
 # Costanti
 M3U8_OUTPUT_FILE = "247ita.m3u8"
