@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Derry City vs Shamrock Rovers" tvg-name="19:45 Ireland Republic - Premier Division : Derry City vs Shamrock Rovers - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-107.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Portugal U21 vs Netherlands U21" tvg-name="17:00 UEFA Euro U-21 : Portugal U21 vs Netherlands U21 - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
+https://waytest-hf-mfptest.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=prova
 
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Drogheda United vs Bohemians" tvg-name="19:45 Ireland Republic - Premier Division : Drogheda United vs Bohemians - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Urawa Reds" tvg-name="20:00 FIFA Club World Cup : Internazionale vs Urawa Reds - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canale 5 IT
+https://waytest-hf-mfptest.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=prova
 
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Galway United vs Cork City" tvg-name="19:45 Ireland Republic - Premier Division : Galway United vs Cork City - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-109.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Real Oviedo vs Mirandés" tvg-name="20:00 Spain - Segunda Division : Real Oviedo vs Mirandés - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Zona DAZN IT
+https://waytest-hf-mfptest.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=prova
 
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Shelbourne vs Sligo Rovers" tvg-name="19:45 Ireland Republic - Premier Division : Shelbourne vs Sligo Rovers - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-110.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - St Patrick's vs Waterford United" tvg-name="19:45 Ireland Republic - Premier Division : St Patrick's vs Waterford United - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-151.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="19:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="19:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Italy vs Netherlands" tvg-name="19:00 Women's Friendly tournament in Koszalin : Italy vs Netherlands - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai Sport 1 Italy
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Eurobasket Women - Italy W vs Lithuania W" tvg-name="20:00 Eurobasket Women : Italy W vs Lithuania W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sport 1 Italy HD
+https://waytest-hf-mfptest.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=prova
 
