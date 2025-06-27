@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Manchester City" tvg-name="20:00 FIFA Club World Cup : Juventus vs Manchester City - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canale 5 IT
-https://waytest-hf-mfptest.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-8.php&redirect_stream=true&api_password=prova
-
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Bohemians vs Sligo Rovers" tvg-name="19:45 Ireland Republic - Premier Division : Bohemians vs Sligo Rovers - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
 https://waytest-hf-mfptest.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-86.php&redirect_stream=true&api_password=prova
 
